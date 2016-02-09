@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "aristotelisdean01schngoog_0002.png"; bbox 0 0 2892 4950; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1166 145">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 1166 145">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1166 145; baseline -0.013 -28"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 201 145; x_wconf 57' lang='lat'><strong>30,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 291 0 669 117; x_wconf 58' lang='lat' dir='ltr'><strong>sla.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 741 0 1166 102; x_wconf 51' lang='grc' dir='ltr'><strong>λειω</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 716 2640 1963 2961">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 716 2640 1963 2961">
+     <span class='ocr_line' id='line_1_2' title="bbox 716 2640 1963 2961; baseline -0.002 -102"><span class='ocrx_word' id='word_1_4' title='bbox 716 2642 1210 2951; x_wconf 56' lang='grc' dir='ltr'><strong>ὃζὲΡΙιθιι</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1226 2640 1812 2961; x_wconf 36' lang='lat' dir='ltr'><strong>&amp;stalisbuzy</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1960 2877 1963 2952; x_wconf 31' lang='grc' dir='ltr'>ᾖ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 848 3023 1709 3069">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 848 3023 1709 3069">
+     <span class='ocr_line' id='line_1_3' title="bbox 848 3023 1709 3069; baseline -0.001 -5"><span class='ocrx_word' id='word_1_7' title='bbox 848 3026 874 3064; x_wconf 75' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_8' title='bbox 893 3024 1243 3069; x_wconf 62' lang='lat' dir='ltr'><strong>Wm</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1264 3023 1512 3063; x_wconf 60' lang='lat' dir='ltr'>“Amen</span> <span class='ocrx_word' id='word_1_10' title='bbox 1513 3024 1574 3063; x_wconf 71' lang='grc'><strong>08</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1579 3024 1709 3063; x_wconf 65' lang='lat' dir='ltr'><strong><em>m</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 862 3150 1658 3203">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 862 3150 1658 3203">
+     <span class='ocr_line' id='line_1_4' title="bbox 862 3150 1658 3203; baseline -0.005 0.178"><span class='ocrx_word' id='word_1_12' title='bbox 862 3150 1658 3203; x_wconf 54' lang='lat' dir='ltr'><strong>forent-nautium</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 1096 1990 3425">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 1096 1990 3425">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 1096 1990 3425; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 1096 1990 3425; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
